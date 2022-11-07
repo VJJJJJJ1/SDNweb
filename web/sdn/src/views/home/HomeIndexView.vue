@@ -1,0 +1,19 @@
+<template>   
+    <ContenFiled>
+        home
+    </ContenFiled>
+</template>
+
+<script>
+import ContenFiled from '../../components/ContentFiled.vue'
+export default{
+    components:{
+    ContenFiled
+}
+}
+</script>
+
+<style scoped>
+
+
+</style>
